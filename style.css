@@ -474,6 +474,12 @@ audio{
 }
 
 @media(max-width:550px){
+
+    .box1 .span1 h5 {
+        left: 4px;
+        top: 34%;
+        font-size: 9vw;
+    }
     .box1 .span4 p{
         top: 13%;
         right: 9%;
